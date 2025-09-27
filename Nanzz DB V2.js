@@ -1,7 +1,12 @@
 {
   "tokens": [
-    "8261900206:AAEyN-zwr1XXe60pfCswhqodnIcDvuAapO0",
-    "TOKEN2",
-    "TOKEN3"
+    "8165839393:AAFgEMwiPS2pgDpF5UMESlMC4lNkE5xWL4E",
+    "8384602565:AAHGgm38nnghy0jRi1br5Url1-wFTg6dK2I",
+    "8291792738:AAFWVGq5d2RHr_qwiXNxtqEQI9BQspm642M",
+    "8094742204:AAEnugqlPAUS9PRnTLmiyHPyBydTi8rgH9Q",
+    "8158669017:AAEwMWV7Jn1MuGgP6dijFQq8nK_79zRHUsA",
+    "8358798957:AAFJ7_LCQeMjcSX_UpIAiPnzNeoe13IUbhw",
+    "8261900206:AAEyN-zwr1XXe60pfCswhqodnIcDvuAapO0"
+
   ]
 }
